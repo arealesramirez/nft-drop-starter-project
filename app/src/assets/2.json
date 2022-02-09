@@ -1,0 +1,19 @@
+{
+  "name": "Ape 2",
+  "symbol": "S2",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CggFD23AJfMuitjaW1uovHe6AE6GKrXM9wG7uE4f3PHY",
+        "share": 100
+      }
+    ]
+  }
+}
